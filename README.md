@@ -27,6 +27,12 @@ No long lived keys for attackers
 1. Build End to end Lambda calls public API that calls realtime location of ISS (space station)
 2. It assumes a role in account B via STS and dumps ajacent results into S3 bucket
 <img width="1265" height="773" alt="image" src="https://github.com/user-attachments/assets/1a11af27-c72a-49fb-b973-4951320259f1" />
+
+
+STEP-by-step Approach
+Select S3
+<img width="592" height="349" alt="image" src="https://github.com/user-attachments/assets/f92635b0-b786-4efc-90b4-dd7c9769ce1a" />
+
 <br>
 <img width="1240" height="947" alt="image" src="https://github.com/user-attachments/assets/441295b0-1415-4a1c-9a19-cff920c5767e" />
 
