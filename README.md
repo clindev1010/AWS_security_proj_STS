@@ -1,1 +1,1 @@
-# AWS_security_proj_STS
+# AWS Security Project: STS
