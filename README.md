@@ -18,4 +18,4 @@
 -account A has a Lambda/ ECS or a task that needs to do something in Account B
 - It has permissions to assume a role that lives in Account B
 - When Account B exposes the role in a trust policy & it says I trust account A to suit me and it has a permissions policy attached to it
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7ccca7b0-d568-4b8e-90ed-5db8e6858a22" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/7ccca7b0-d568-4b8e-90ed-5db8e6858a22" />
