@@ -7,3 +7,10 @@
 -Traditional setup of Cloud system infrastructure
 <br>
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/32f3ca8f-72e3-4eb1-a828-97ec7ff47bca" />
+
+
+-
+-
+-
+<br>
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/9eb5fcd7-cb07-4785-84e2-680c39ce5352" />
