@@ -19,3 +19,16 @@
 - It has permissions to assume a role that lives in Account B
 - When Account B exposes the role in a trust policy & it says I trust account A to suit me and it has a permissions policy attached to it
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/7ccca7b0-d568-4b8e-90ed-5db8e6858a22" />
+
+Account A calls STS and callsback credentials
+No long lived keys for attackers
+
+-In Account A:
+1. Build End to end Lambda calls public API that calls realtime location of ISS (space station)
+2. It assumes a role in account B via STS and dumps ajacent results into S3 bucket
+<img width="1265" height="773" alt="image" src="https://github.com/user-attachments/assets/1a11af27-c72a-49fb-b973-4951320259f1" />
+<br>
+<img width="1240" height="947" alt="image" src="https://github.com/user-attachments/assets/441295b0-1415-4a1c-9a19-cff920c5767e" />
+
+
+
